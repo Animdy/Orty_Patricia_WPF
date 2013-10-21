@@ -1,4 +1,4 @@
-// Screencast : Loops
+// Screencast : While Loops
 
 console.log('----------LOOPS----------');
 
