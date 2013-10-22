@@ -1,19 +1,7 @@
-// Screencast : While Loops
+// Screencast : For Loops
 
-console.log('----------LOOPS----------');
+//for is shorthand version of all the Loops
 
-var b = 10; //sets up index
-
-//While Loop --example right now is an infinite loop... as it will just keep over.
-/* while (b > 0){
-	console.log(b);
-}
-*/
-
-
-//in order to break it being infinite you must add an increment or decrement that will end out
-
-while ( b > 0 ){ //checks condition
-	console.log(b + 'kegs on the wall');
-	b--; //increments or decrements index    b-- (decrements by 1)   b++ (increments by 1)
+for (var i = 10; i > 0; i--){
+	console.log(i + "Kegs on the Wall");
 }
