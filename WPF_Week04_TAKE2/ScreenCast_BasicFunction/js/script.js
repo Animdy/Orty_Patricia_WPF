@@ -10,3 +10,7 @@ function calcArea(){
 	var area = width * height;
 	console.log(area);
 }
+
+//have to invoke(CALL) to get a function to run : functionName();
+
+calcArea();
