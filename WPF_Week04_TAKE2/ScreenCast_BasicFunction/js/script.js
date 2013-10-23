@@ -1,5 +1,8 @@
 // Screencast : Functions - Basic Structure
 
+
+var width = 5;
+
 function outptMsg(){
 	console.log("Hello World");
 }
@@ -13,4 +16,6 @@ function calcArea(){
 
 //have to invoke(CALL) to get a function to run : functionName();
 
-calcArea();
+calcArea(); //shows width used is that within the function.
+
+console.log(width); //shows width outside the function when not refering to the function is used.
