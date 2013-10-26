@@ -29,3 +29,5 @@ function supplyList(amount, item, name){
 	var reorder = ((amount / 4) > item) ? "Your supply of " + name + " is low. Time to re-order." : "You are well stocked in " + name + ". No need to re-order.";
 	return reorder;
 }
+
+//Call of function to determine reorder need of pens
