@@ -11,3 +11,5 @@ var toads;
 var root;
 var dragonNail;
 var nameWish;
+
+//Alert to describe purpose of following prompts to gather information for calculation.
