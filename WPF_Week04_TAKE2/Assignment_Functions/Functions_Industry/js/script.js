@@ -9,3 +9,4 @@
 //Declaration of variables used to gather information for calculation.
 
 var pensItem;
+var amountPens;
