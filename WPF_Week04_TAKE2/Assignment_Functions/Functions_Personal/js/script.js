@@ -16,3 +16,4 @@ var howManyTimes
 alert("Having trouble solving a problem. Well just answer the next two questions and we'll determine if you get heads or tails overall in your deciding coin flip.");
 
 //Definition of variable howManyRotations with prompt
+howManyRotations = prompt("How many times do you think the one coin flips in the air?");
