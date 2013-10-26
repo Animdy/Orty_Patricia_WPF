@@ -11,3 +11,5 @@ var howManyRotations;
 
 //Declaration of variable howManyTimes
 var howManyTimes
+
+//Alert to explain prompts to follow to gather information for calculation
