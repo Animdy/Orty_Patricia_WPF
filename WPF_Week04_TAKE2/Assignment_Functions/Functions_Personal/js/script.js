@@ -22,3 +22,4 @@ howManyRotations = prompt("How many times do you think the one coin flips in the
 howManyTimes = prompt("How many times are you going to flip the coin? Like is it best 2 out of 3... in which case the flip total would be 3...");
 
 //Creation of function to calculatie coin toss overall outcome
+//calculation of function to determine overall outcome by adding rotations and times then multiplying by three... takes that total and then uses Modulo to determine if result is even. If even result is HEADS and if odd result is TAILS.
