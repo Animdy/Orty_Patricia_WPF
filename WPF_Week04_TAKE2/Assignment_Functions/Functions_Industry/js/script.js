@@ -23,3 +23,4 @@ paperReams = prompt("How many reams of paper do you currently have in inventory?
 amountPaper = prompt("How many reams do you have when your inventory is full?");
 
 //Creation of function to house calculation to determine if stock needs to be reordered.
+// Calculation will determine if stock needs to be reordered by taking total full inventory amount and dividing it by 4 then seeing if that number is greater than the current amount of stock. If the divided amount is larger than current amount of stock then result will be notification that stock needs to be reordered.
