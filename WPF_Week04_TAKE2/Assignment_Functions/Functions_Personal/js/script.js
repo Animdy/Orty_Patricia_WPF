@@ -20,3 +20,5 @@ howManyRotations = prompt("How many times do you think the one coin flips in the
 
 //Definition of variable howManyTimes wtih prompt
 howManyTimes = prompt("How many times are you going to flip the coin? Like is it best 2 out of 3... in which case the flip total would be 3...");
+
+//Creation of function to calculatie coin toss overall outcome
