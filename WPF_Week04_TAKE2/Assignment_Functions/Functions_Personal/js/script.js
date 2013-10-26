@@ -10,3 +10,4 @@
 var howManyRotations;
 
 //Declaration of variable howManyTimes
+var howManyTimes
