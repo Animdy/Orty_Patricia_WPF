@@ -5,3 +5,5 @@
 // Assignment : Functions - Industry
 
 //Goal: To figure out what office supplies need to be re-ordered.
+
+//Declaration of variables used to gather information for calculation.
