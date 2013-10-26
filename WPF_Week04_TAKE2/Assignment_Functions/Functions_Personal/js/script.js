@@ -28,3 +28,5 @@ function coinToss(rotations, times){
 	var outcome = (((rotations + times) * 3) % 2 == 0) ? "HEADS" : "TAILS";
 	return outcome;
 }
+
+//Function call to gather result of calculation.
