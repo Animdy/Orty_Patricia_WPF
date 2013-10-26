@@ -12,3 +12,5 @@ var pensItem;
 var amountPens;
 var paperReams;
 var amountPaper;
+
+//Alert to describe purpose of prompts.
