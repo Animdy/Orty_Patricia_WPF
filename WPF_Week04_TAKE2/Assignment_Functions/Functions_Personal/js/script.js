@@ -7,3 +7,4 @@
 //Goal: To determing outcome of coin toss set winner.
 
 //Declaration of variable howManyRoations
+var howManyRotations;
