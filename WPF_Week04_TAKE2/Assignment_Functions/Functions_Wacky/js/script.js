@@ -34,3 +34,4 @@ var potion = function(amount, ingredient, other, potionName){
 	return outcome;
 }
 
+//Call of anonymous function
