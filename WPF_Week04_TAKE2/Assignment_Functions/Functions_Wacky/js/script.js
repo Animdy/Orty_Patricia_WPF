@@ -21,3 +21,4 @@ toads = prompt("Toads are sensitive and can help bring change... how many would 
 root = prompt("Roots bind to the soil and root us in our ways... how many would you like to dip in to help your potion stick?");
 dragonNail = prompt("People are stuborn... just like the nails of dragons. Fire tested and harder than diamonds.\nHow many would you like to drop in to add an edge to your blessed brew?");
 
+//Definition and declaration of anonomous function to house calculation for potion
