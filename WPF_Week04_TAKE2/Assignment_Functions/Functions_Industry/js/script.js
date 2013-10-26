@@ -34,3 +34,4 @@ function supplyList(amount, item, name){
 var reorderPens = supplyList(amountPens, pensItem, 'pens');
 
 //Call of function to determin reorder need of paper
+var reorderPaper = supplyList(amountPaper, paperReams, 'paper');
