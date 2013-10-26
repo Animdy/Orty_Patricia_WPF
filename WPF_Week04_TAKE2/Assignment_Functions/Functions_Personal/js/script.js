@@ -30,3 +30,5 @@ function coinToss(rotations, times){
 }
 
 //Function call to gather result of calculation.
+var decision = coinToss(howManyRotations, howManyTimes);
+
