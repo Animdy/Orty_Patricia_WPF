@@ -17,3 +17,5 @@ alert("Having trouble solving a problem. Well just answer the next two questions
 
 //Definition of variable howManyRotations with prompt
 howManyRotations = prompt("How many times do you think the one coin flips in the air?");
+
+//Definition of variable howManyTimes wtih prompt
