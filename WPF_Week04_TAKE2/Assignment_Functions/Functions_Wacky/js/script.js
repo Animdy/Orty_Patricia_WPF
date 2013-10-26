@@ -18,3 +18,4 @@ alert("Here at Wonda's Web of the Wide World Potion Imporium we've designed away
 //Definition of variables with prompts to gather information for calculation.
 nameWish = prompt("Name the purpose of your potion? ...is it for love? ...money?");
 toads = prompt("Toads are sensitive and can help bring change... how many would you like to use?");
+root = prompt("Roots bind to the soil and root us in our ways... how many would you like to dip in to help your potion stick?");
