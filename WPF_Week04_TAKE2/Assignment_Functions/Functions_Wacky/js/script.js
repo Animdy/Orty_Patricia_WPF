@@ -9,3 +9,4 @@
 //Declaration of variables used to gather information for calucation.
 var toads;
 var root;
+var dragonNail;
