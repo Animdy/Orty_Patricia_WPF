@@ -23,3 +23,7 @@ howManyTimes = prompt("How many times are you going to flip the coin? Like is it
 
 //Creation of function to calculatie coin toss overall outcome
 //calculation of function to determine overall outcome by adding rotations and times then multiplying by three... takes that total and then uses Modulo to determine if result is even. If even result is HEADS and if odd result is TAILS.
+
+function coinToss(rotations, times){
+	var outcome = (((rotations + times) * 3) % 2 == 0) ? "HEADS" : "TAILS";
+}
