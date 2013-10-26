@@ -40,3 +40,4 @@ var reorderPaper = supplyList(amountPaper, paperReams, 'paper');
 console.log(reorderPens);
 
 //Console.log to print result of call for reorderPaper.
+console.log(reorderPaper);
