@@ -8,3 +8,5 @@
 
 //Declaration of variable howManyRoations
 var howManyRotations;
+
+//Declaration of variable howManyTimes
