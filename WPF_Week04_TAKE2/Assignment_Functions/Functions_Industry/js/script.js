@@ -14,3 +14,5 @@ var paperReams;
 var amountPaper;
 
 //Alert to describe purpose of prompts.
+alert("To help maintain a properly stocked inventory please answer the following questions\nabout the remaining amount of product you have and the amount you should have when fully stocked.");
+
