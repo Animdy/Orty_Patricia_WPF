@@ -4,4 +4,4 @@
 
 // Assignment : Functions - Industry
 
-
+//Goal: To figure out what office supplies need to be re-ordered.
