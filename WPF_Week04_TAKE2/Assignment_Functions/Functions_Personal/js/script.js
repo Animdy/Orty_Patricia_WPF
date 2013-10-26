@@ -33,3 +33,4 @@ function coinToss(rotations, times){
 var decision = coinToss(howManyRotations, howManyTimes);
 
 //console.log to show result of function call
+console.log("Your result is " + decision + "!");
