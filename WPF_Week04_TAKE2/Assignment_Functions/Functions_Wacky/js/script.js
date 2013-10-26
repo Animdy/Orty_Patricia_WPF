@@ -6,5 +6,5 @@
 
 //Goal: Calculation to predict results of virtual potion mixture.
 
-//Definition of variables used to gather information for calucation.
+//Declaration of variables used to gather information for calucation.
 var toads;
