@@ -21,4 +21,16 @@ toads = prompt("Toads are sensitive and can help bring change... how many would 
 root = prompt("Roots bind to the soil and root us in our ways... how many would you like to dip in to help your potion stick?");
 dragonNail = prompt("People are stuborn... just like the nails of dragons. Fire tested and harder than diamonds.\nHow many would you like to drop in to add an edge to your blessed brew?");
 
-//Definition and declaration of anonomous function to house calculation for potion
+//Definition and declaration of anonomous function to house calculation for potion.
+var potion = function(amount, ingredient, other, potionName){
+	if((amount > ingredient) && (other > ingredient)){
+		var outcome ="Your wishes in " + potionName + " shall be granted.";
+	} else if(amount == ingredient || other == ingredient){
+		var outcome ="You do not feel strongly enough either way to get your desired outcome in " + potionName + ".";
+	} else{
+		var outcome ="Concentrate harder on your desire and try to mix the potion again.";
+	}
+
+	return outcome;
+}
+
