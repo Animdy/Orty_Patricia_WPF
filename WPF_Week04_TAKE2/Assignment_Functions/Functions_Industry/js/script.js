@@ -10,3 +10,4 @@
 
 var pensItem;
 var amountPens;
+var paperReams;
