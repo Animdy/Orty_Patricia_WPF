@@ -24,3 +24,8 @@ amountPaper = prompt("How many reams do you have when your inventory is full?");
 
 //Creation of function to house calculation to determine if stock needs to be reordered.
 // Calculation will determine if stock needs to be reordered by taking total full inventory amount and dividing it by 4 then seeing if that number is greater than the current amount of stock. If the divided amount is larger than current amount of stock then result will be notification that stock needs to be reordered.
+
+function supplyList(amount, item, name){
+	var reorder = ((amount / 4) > item) ? "Your supply of " + name + " is low. Time to re-order." : "You are well stocked in " + name + ". No need to re-order.";
+	return reorder;
+}
