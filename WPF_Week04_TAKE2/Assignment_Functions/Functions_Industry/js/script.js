@@ -20,3 +20,4 @@ alert("To help maintain a properly stocked inventory please answer the following
 pensItem = prompt("How many boxes of pens do you currently have in inventory?");
 amountPens = prompt("How many boxes of pens do you have when your inventory is full?");
 paperReams = prompt("How many reams of paper do you currently have in inventory?");
+amountPaper = prompt("How many reams do you have when your inventory is full?");
