@@ -3,3 +3,5 @@
 // 10/25/13
 
 // Assignment : Functions - Wacky
+
+//Goal: Calculation to predict results of virtual potion mixture.
