@@ -31,3 +31,4 @@ function supplyList(amount, item, name){
 }
 
 //Call of function to determine reorder need of pens
+var reorderPens = supplyList(amountPens, pensItem, 'pens');
