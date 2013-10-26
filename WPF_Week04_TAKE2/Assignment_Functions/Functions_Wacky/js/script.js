@@ -10,3 +10,4 @@
 var toads;
 var root;
 var dragonNail;
+var nameWish;
