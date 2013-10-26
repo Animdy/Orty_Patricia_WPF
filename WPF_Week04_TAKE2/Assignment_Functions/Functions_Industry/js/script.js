@@ -21,3 +21,5 @@ pensItem = prompt("How many boxes of pens do you currently have in inventory?");
 amountPens = prompt("How many boxes of pens do you have when your inventory is full?");
 paperReams = prompt("How many reams of paper do you currently have in inventory?");
 amountPaper = prompt("How many reams do you have when your inventory is full?");
+
+//Creation of function to house calculation to determine if stock needs to be reordered.
