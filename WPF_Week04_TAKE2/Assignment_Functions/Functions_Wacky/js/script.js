@@ -38,4 +38,4 @@ var potion = function(amount, ingredient, other, potionName){
 var result = potion(toads, root, dragonNail, nameWish);
 
 //console.log to show results of function
-
+console.log(result);
