@@ -19,3 +19,5 @@ alert("Here at Wonda's Web of the Wide World Potion Imporium we've designed away
 nameWish = prompt("Name the purpose of your potion? ...is it for love? ...money?");
 toads = prompt("Toads are sensitive and can help bring change... how many would you like to use?");
 root = prompt("Roots bind to the soil and root us in our ways... how many would you like to dip in to help your potion stick?");
+dragonNail = prompt("People are stuborn... just like the nails of dragons. Fire tested and harder than diamonds.\nHow many would you like to drop in to add an edge to your blessed brew?");
+
