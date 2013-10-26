@@ -37,3 +37,4 @@ var reorderPens = supplyList(amountPens, pensItem, 'pens');
 var reorderPaper = supplyList(amountPaper, paperReams, 'paper');
 
 //Console.log to print result of call for reorderPens.
+console.log(reorderPens);
